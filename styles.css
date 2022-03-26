@@ -1,0 +1,65 @@
+.color1 {color: #002957;}
+.color2 {color: #0052b7;}
+.color3 {color: #0097ff;}
+.color4 {color: #00f8ff;}
+.color5 {color: #78ffff;}
+
+head{position: relative;
+    width: 1366px;
+    height: 768px;
+
+    background: #002957;}
+
+section{position: relative;
+    width: 1366px;
+    height: 50px;
+    left: 0px;
+    top: 0px;
+
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 30px;
+    line-height: 35px;
+    text-align: center;
+
+    background: #0097ff;}
+
+article{position: relative;
+    width: 320px;
+    height: 50px;
+    left: 520px;
+    top: 50px;
+
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 15px;
+    line-height: 35px;
+    text-align: center;
+
+    background: #0052b7;}
+
+ul{position: relative;
+    left: 0px;
+    top: 70px;
+
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 35px;}
+
+body{position: relative;
+    width: 1366px;
+    height: 768px;
+    
+    background: #78ffff;
+    background-size: 1366*768;
+    background-repeat: no-repeat;}
+
+table{position: relative;
+    width: 20px;
+    left: 595px;
+    top: -300px; }
+
